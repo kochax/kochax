@@ -1,9 +1,8 @@
 ### Hi there 👋
-#### I am Jovan
 
-- 📫 How to reach me: 
+### 📝 Latest articles:
+- [How to install node-rdkafka older versions on M1 Apple](https://www.jovankocic.com/blog/how-to-install-node-rdkafka-older-versions-on-apple-m-chips)
 
-#### 💬 Ask me about
 ### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
