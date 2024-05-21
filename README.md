@@ -2,6 +2,7 @@
 
 ### 📝 Latest articles:
 - [How to install node-rdkafka older versions on M1 Apple](https://www.jovankocic.com/blog/how-to-install-node-rdkafka-older-versions-on-apple-m-chips)
+- [Integration testing with NodeJS](https://www.jovankocic.com/blog/integration-testing-with-nodejs)
 
 ### Languages
 <div>
