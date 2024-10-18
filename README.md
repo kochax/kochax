@@ -2,6 +2,7 @@
 
 ### 📝 Latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Integration testing with NodeJS](https://jovankocic.com/blog/integration-testing-with-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
